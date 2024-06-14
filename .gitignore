@@ -1,0 +1,6 @@
+#Directorios generados por compilacion 
+/bin
+/obj
+
+#Editor
+.vs/
